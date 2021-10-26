@@ -3,13 +3,6 @@
   padding: 0;
 }
 
-body {
-  overflow: hidden;
-}
-body {
-  overflow-x: hidden;
-}
-
 #bgvideo {
   position: fixed;
   min-height: 100vh;
@@ -211,7 +204,7 @@ body {
   }
   .all-hold {
     align-items: baseline;
-    padding-top: 30%;
+    padding-top: 40%;
     min-height: 0;
   }
 }
@@ -220,7 +213,7 @@ body {
   .container {
     display: flex;
     flex-direction: column;
-    margin-top: 15%;
+    margin-top: 10%;
   }
 
   .all-hold {
